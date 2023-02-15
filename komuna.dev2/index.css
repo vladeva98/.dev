@@ -1,0 +1,39 @@
+.text{
+  background-image: url(./img/dog1.jpg);
+  background-position: center;
+  background-size: cover;
+  height: 500px;
+  width: 500px;
+  float: left;
+
+}
+p{
+    
+    padding-top: 400px;
+    font-size: 36px;
+    color: white;
+   
+}
+
+.text2{
+    background-image: url(./img/dog3.jpg);
+    background-position: center;
+    background-size: cover;
+    float: right ;
+    height: 500px;
+    width: 500px;
+    
+    margin-right: 20px;
+  
+  }
+  p2{
+      
+      padding-top: 400px;
+      font-size: 36px;
+      color: white;
+     
+  }
+
+ 
+
+
